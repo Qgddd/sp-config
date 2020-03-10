@@ -19,7 +19,7 @@ zuul:
     user-service: /user-service/**
     order-service: /order-service/**
 
-  retryable: true
+  retryable: false
   
   
 ribbon:
